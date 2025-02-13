@@ -1,4 +1,11 @@
-## Hi there 👋
+![Anashost's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anashost&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+<!-- You can add some fun animated GIFs -->
+
+![Fun Animated GIF](https://media.giphy.com/media/your-gif-url-here/giphy.gif)
+
 
 <!--
 **Anashost/Anashost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
