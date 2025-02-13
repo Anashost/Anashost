@@ -1,6 +1,4 @@
-![Fun Animated GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B6ZWdvbnc4N25tM3BxZHJpdGZxaXVvc3B6dnhrZWtzMWpmZ3QwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
-
----
+![Fun Animated GIF](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ![Anashost's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anashost&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
